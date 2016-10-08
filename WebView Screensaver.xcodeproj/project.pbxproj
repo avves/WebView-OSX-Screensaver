@@ -15,7 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		3A40066818B53112005F43A6 /* That Wednesday.saver */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "That Wednesday.saver"; sourceTree = BUILT_PRODUCTS_DIR; };
+		3A40066818B53112005F43A6 /* Confettisaver.saver */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Confettisaver.saver; sourceTree = BUILT_PRODUCTS_DIR; };
 		3A40066B18B53112005F43A6 /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = System/Library/Frameworks/Cocoa.framework; sourceTree = SDKROOT; };
 		3A40066D18B53113005F43A6 /* ScreenSaver.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = ScreenSaver.framework; path = System/Library/Frameworks/ScreenSaver.framework; sourceTree = SDKROOT; };
 		3A40067018B53113005F43A6 /* AppKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppKit.framework; path = System/Library/Frameworks/AppKit.framework; sourceTree = SDKROOT; };
@@ -54,7 +54,7 @@
 		3A40066918B53112005F43A6 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				3A40066818B53112005F43A6 /* That Wednesday.saver */,
+				3A40066818B53112005F43A6 /* Confettisaver.saver */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -105,9 +105,9 @@
 /* End PBXHeadersBuildPhase section */
 
 /* Begin PBXNativeTarget section */
-		3A40066718B53112005F43A6 /* That Wednesday */ = {
+		3A40066718B53112005F43A6 /* Confettisaver */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 3A40067F18B53113005F43A6 /* Build configuration list for PBXNativeTarget "That Wednesday" */;
+			buildConfigurationList = 3A40067F18B53113005F43A6 /* Build configuration list for PBXNativeTarget "Confettisaver" */;
 			buildPhases = (
 				3A40066218B53112005F43A6 /* Sources */,
 				3A40066318B53112005F43A6 /* Frameworks */,
@@ -119,9 +119,9 @@
 			);
 			dependencies = (
 			);
-			name = "That Wednesday";
+			name = Confettisaver;
 			productName = "That Wednesday";
-			productReference = 3A40066818B53112005F43A6 /* That Wednesday.saver */;
+			productReference = 3A40066818B53112005F43A6 /* Confettisaver.saver */;
 			productType = "com.apple.product-type.bundle";
 		};
 /* End PBXNativeTarget section */
@@ -145,7 +145,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				3A40066718B53112005F43A6 /* That Wednesday */,
+				3A40066718B53112005F43A6 /* Confettisaver */,
 			);
 		};
 /* End PBXProject section */
@@ -285,7 +285,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		3A40067F18B53113005F43A6 /* Build configuration list for PBXNativeTarget "That Wednesday" */ = {
+		3A40067F18B53113005F43A6 /* Build configuration list for PBXNativeTarget "Confettisaver" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				3A40068018B53113005F43A6 /* Debug */,
